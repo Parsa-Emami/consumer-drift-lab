@@ -1,0 +1,8 @@
+{
+  "removed_operations": [],
+  "consumers": {
+    "web": [
+      "GET /orders"
+    ]
+  }
+}

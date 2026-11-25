@@ -1,0 +1,13 @@
+{
+  "removed_operations": [
+    "GET /obsolete"
+  ],
+  "consumers": {
+    "web": [
+      "GET /obsolete"
+    ],
+    "mobile": [
+      "GET /orders"
+    ]
+  }
+}
